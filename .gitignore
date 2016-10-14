@@ -1,0 +1,15 @@
+Build/*
+Intermediate/*
+Saved/*
+Binaries/*
+Plugins/LandscapeImporter/Binaries/*
+Plugins/LandscapeImporter/Intermediate/*
+Plugins/VrpnPlugin/Binaries/*
+Plugins/VrpnPlugin/Intermediate/*
+*.pdb
+MyProject.sdf
+MyProject.opensdf
+MyProject.sln
+MyProject.VC.opendb
+MyProject.v12.suo
+.vs/*
