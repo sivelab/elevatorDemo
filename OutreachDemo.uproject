@@ -11,6 +11,10 @@
 		{
 			"Name": "OculusInput",
 			"Enabled": false
+		},
+		{
+			"Name": "OptitrackNatnet",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
